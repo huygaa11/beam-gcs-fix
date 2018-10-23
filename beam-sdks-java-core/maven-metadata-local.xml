@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.beam</groupId>
+  <artifactId>beam-sdks-java-core</artifactId>
+  <versioning>
+    <versions>
+      <version>2.6.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181023204711</lastUpdated>
+  </versioning>
+</metadata>
