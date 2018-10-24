@@ -1,6 +1,6 @@
 This patch lets you use `beam-sdks-java-extensions-google-cloud-platform-core` package that fixed hanging `Unexpected end of file` error.
 
-To use, download the snapshot folder from this repo to your maven local repository under beam folder. Here is an example path on my computer:
+To use, download the appropriate versioned snapshot folder from this repo to your maven local repository under beam folder. Here is an example path on my computer:
 
 
 ```
